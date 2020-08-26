@@ -52,7 +52,7 @@ Learn more about the GitScrum <https://gitscrum.com>
 You can install the package via composer:
 
 ```bash
-$ composer require gitscrum-team/console
+$ composer require gitscrum/console
 ```
 ### Laravel 5.5 and up
 
