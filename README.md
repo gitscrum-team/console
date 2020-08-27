@@ -117,8 +117,6 @@ After installing package, you will need to configure some options
 
 ### Project Credentials
 
-You would probably like to set up the local environment to get a readable output.
-
 Go to [GitScrum](https://site.gitscrum.com). To obtain credentials you must be the project owner or project admin.
 
 After, you should go to your project. Click on Project Settings and then API Management to obtain the credentials that will be used for .env to authenticate to the project.
